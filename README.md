@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **pradeepmanoharan77@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/pradeepmanoharan77/Pradeep-portfolio/blob/main/Pradeep%20Resume%20Updated.pdf](https://github.com/pradeepmanoharan77/Pradeep-portfolio/blob/main/Pradeep%20Resume%20Updated.pdf)
+- 📄 Know about my experiences [pradeepmanoharan-Resume](https://github.com/pradeepmanoharan77/Pradeep-portfolio/blob/main/Pradeep%20Resume%20Updated.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
