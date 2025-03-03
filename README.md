@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Pradeepmanoharan</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<img align="right" alt="Coding gif" width="400" src="https://github.com/pradeepmanoharan77/Pradeep-portfolio/blob/main/images.jpg">
+<img align="right" alt="Coding gif" width="400" src="https://github.com/pradeepmanoharan77/Pradeep-portfolio/blob/main/200w.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skdinesh&label=Profile%20views&color=0e75b6&style=flat" alt="skdinesh" /> </p>
 
 
